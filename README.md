@@ -1,4 +1,4 @@
-- 💻👋 Shaxzod Eshimov
+ 💻👋 Shaxzod Eshimov
 
 Hi there! I'm Shaxzod, a full-stack web developer from Uzbekistan. I take pleasure in working with TypeScript, Next.js, Node.js, Express, and MongoDB. I enjoy dedicating my time to my projects and fortifying them with the knowledge I've acquired.
 
